@@ -1,0 +1,1217 @@
+{
+  "accepts@1.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/accepts",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/accepts",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/accepts/LICENSE"
+  },
+  "ajv@6.10.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/ajv",
+    "publisher": "Evgeny Poberezkin",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ajv",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ajv/LICENSE"
+  },
+  "array-filter@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/array-filter",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-filter",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-filter/README.md"
+  },
+  "array-flatten@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/array-flatten",
+    "publisher": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-flatten",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-flatten/LICENSE"
+  },
+  "array-map@0.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/array-map",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-map",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-map/LICENSE"
+  },
+  "array-reduce@0.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/array-reduce",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-reduce",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/array-reduce/LICENSE"
+  },
+  "asn1@0.2.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-asn1",
+    "publisher": "Joyent",
+    "url": "joyent.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/asn1",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/asn1/LICENSE"
+  },
+  "assert-plus@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mcavage/node-assert-plus",
+    "publisher": "Mark Cavage",
+    "email": "mcavage@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/assert-plus",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/assert-plus/README.md"
+  },
+  "asynckit@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexindigo/asynckit",
+    "publisher": "Alex Indigo",
+    "email": "iam@alexindigo.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/asynckit",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/asynckit/LICENSE"
+  },
+  "aws-sign2@0.7.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/aws-sign",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/aws-sign2",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/aws-sign2/LICENSE"
+  },
+  "aws4@1.8.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mhart/aws4",
+    "publisher": "Michael Hart",
+    "email": "michael.hart.au@gmail.com",
+    "url": "http://github.com/mhart",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/aws4",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/aws4/LICENSE"
+  },
+  "bcrypt-pbkdf@1.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/joyent/node-bcrypt-pbkdf",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bcrypt-pbkdf",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bcrypt-pbkdf/LICENSE"
+  },
+  "body-parser@1.18.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/body-parser",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/body-parser",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/body-parser/LICENSE"
+  },
+  "bull@3.13.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/OptimalBits/bull",
+    "publisher": "OptimalBits",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bull",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bull/LICENSE.md"
+  },
+  "bytes@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/bytes.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bytes",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bytes/LICENSE"
+  },
+  "caseless@0.12.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/caseless",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/caseless",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/caseless/LICENSE"
+  },
+  "cluster-key-slot@1.1.0": {
+    "licenses": "Apache*",
+    "repository": "https://github.com/Salakar/cluster-key-slot",
+    "publisher": "Mike Diarmid",
+    "email": "mike.diarmid@gmail.com",
+    "url": "http://github.com/Salakar/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cluster-key-slot",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cluster-key-slot/LICENSE"
+  },
+  "combined-stream@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-combined-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/combined-stream",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/combined-stream/License"
+  },
+  "commander@2.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tj/commander.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/commander",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/commander/LICENSE"
+  },
+  "content-disposition@0.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-disposition",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/content-disposition",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/content-disposition/LICENSE"
+  },
+  "content-type@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-type",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/content-type",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/content-type/LICENSE"
+  },
+  "cookie-signature@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-cookie-signature",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@learnboost.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cookie-signature",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cookie-signature/Readme.md"
+  },
+  "cookie@0.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/cookie",
+    "publisher": "Roman Shtylman",
+    "email": "shtylman@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cookie",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cookie/LICENSE"
+  },
+  "core-util-is@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/core-util-is",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/core-util-is",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/core-util-is/LICENSE"
+  },
+  "cron-parser@2.13.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/harrisiirak/cron-parser",
+    "publisher": "Harri Siirak",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cron-parser",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/cron-parser/LICENSE"
+  },
+  "dashdash@1.14.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/trentm/node-dashdash",
+    "publisher": "Trent Mick",
+    "email": "trentm@gmail.com",
+    "url": "http://trentm.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/dashdash",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/dashdash/LICENSE.txt"
+  },
+  "debug@2.6.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/body-parser/node_modules/debug",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/body-parser/node_modules/debug/LICENSE"
+  },
+  "debug@3.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/debug",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/debug/LICENSE"
+  },
+  "debug@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ioredis/node_modules/debug",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ioredis/node_modules/debug/LICENSE"
+  },
+  "debuglog@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sam-github/node-debuglog",
+    "publisher": "Sam Roberts",
+    "email": "sam@strongloop.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/debuglog",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/debuglog/LICENSE"
+  },
+  "define-properties@1.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/define-properties",
+    "publisher": "Jordan Harband",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/define-properties",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/define-properties/LICENSE"
+  },
+  "delayed-stream@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-delayed-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/delayed-stream",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/delayed-stream/License"
+  },
+  "denque@1.4.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/invertase/denque",
+    "publisher": "Invertase",
+    "email": "oss@invertase.io",
+    "url": "http://github.com/invertase/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/denque",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/denque/LICENSE"
+  },
+  "depd@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dougwilson/nodejs-depd",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/depd",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/depd/LICENSE"
+  },
+  "destroy@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/destroy",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/destroy",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/destroy/LICENSE"
+  },
+  "dotenv@8.2.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/motdotla/dotenv",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/dotenv",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/dotenv/LICENSE"
+  },
+  "ecc-jsbn@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/quartzjer/ecc-jsbn",
+    "publisher": "Jeremie Miller",
+    "email": "jeremie@jabber.org",
+    "url": "http://jeremie.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ecc-jsbn",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ecc-jsbn/LICENSE"
+  },
+  "ee-first@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonathanong/ee-first",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ee-first",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ee-first/LICENSE"
+  },
+  "encodeurl@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/encodeurl",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/encodeurl",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/encodeurl/LICENSE"
+  },
+  "encoding@0.1.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/encoding",
+    "publisher": "Andris Reinman",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/encoding",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/encoding/LICENSE"
+  },
+  "es-abstract@1.17.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-abstract",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/es-abstract",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/es-abstract/LICENSE"
+  },
+  "es-to-primitive@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-to-primitive",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/es-to-primitive",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/es-to-primitive/LICENSE"
+  },
+  "escape-html@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/escape-html",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/escape-html",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/escape-html/LICENSE"
+  },
+  "etag@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/etag",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/etag",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/etag/LICENSE"
+  },
+  "eventemitter3@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/primus/eventemitter3",
+    "publisher": "Arnout Kazemier",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/eventemitter3",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/eventemitter3/LICENSE"
+  },
+  "express@4.16.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/express",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/express",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/express/LICENSE"
+  },
+  "extend@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/justmoon/node-extend",
+    "publisher": "Stefan Thomas",
+    "email": "justmoon@members.fsf.org",
+    "url": "http://www.justmoon.net",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/extend",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/extend/LICENSE"
+  },
+  "extsprintf@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davepacheco/node-extsprintf",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/extsprintf",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/extsprintf/LICENSE"
+  },
+  "fast-deep-equal@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-deep-equal",
+    "publisher": "Evgeny Poberezkin",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/fast-deep-equal",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/fast-deep-equal/LICENSE"
+  },
+  "fast-json-stable-stringify@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-json-stable-stringify",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/fast-json-stable-stringify",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/fast-json-stable-stringify/LICENSE"
+  },
+  "finalhandler@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/finalhandler",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/finalhandler",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/finalhandler/LICENSE"
+  },
+  "follow-redirects@1.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/follow-redirects/follow-redirects",
+    "publisher": "Ruben Verborgh",
+    "email": "ruben@verborgh.org",
+    "url": "https://ruben.verborgh.org/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/follow-redirects",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/follow-redirects/LICENSE"
+  },
+  "foreman@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/strongloop/node-foreman",
+    "publisher": "StrongLoop, Inc.",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/foreman",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/foreman/LICENSE"
+  },
+  "forever-agent@0.6.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/forever-agent",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/forever-agent",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/forever-agent/LICENSE"
+  },
+  "form-data@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/form-data/form-data",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/form-data",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/form-data/License"
+  },
+  "forwarded@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/forwarded",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/forwarded",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/forwarded/LICENSE"
+  },
+  "fresh@0.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/fresh",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/fresh",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/fresh/LICENSE"
+  },
+  "function-bind@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/function-bind",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/function-bind/LICENSE"
+  },
+  "get-port@5.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/get-port",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/get-port",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/get-port/license"
+  },
+  "getpass@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/arekinath/node-getpass",
+    "publisher": "Alex Wilson",
+    "email": "alex.wilson@joyent.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/getpass",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/getpass/LICENSE"
+  },
+  "har-schema@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/ahmadnassri/har-schema",
+    "publisher": "Ahmad Nassri",
+    "email": "ahmad@ahmadnassri.com",
+    "url": "https://www.ahmadnassri.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/har-schema",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/har-schema/LICENSE"
+  },
+  "har-validator@5.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ahmadnassri/node-har-validator",
+    "publisher": "Ahmad Nassri",
+    "email": "ahmad@ahmadnassri.com",
+    "url": "https://www.ahmadnassri.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/har-validator",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/har-validator/LICENSE"
+  },
+  "has-symbols@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/has-symbols",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/has-symbols",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/has-symbols/LICENSE"
+  },
+  "has@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tarruda/has",
+    "publisher": "Thiago de Arruda",
+    "email": "tpadilha84@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/has",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/has/LICENSE-MIT"
+  },
+  "html-entities@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mdevils/node-html-entities",
+    "publisher": "Marat Dulin",
+    "email": "mdevils@yandex.ru",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/html-entities",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/html-entities/LICENSE"
+  },
+  "http-errors@1.6.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/http-errors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/http-errors",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/http-errors/LICENSE"
+  },
+  "http-proxy@1.17.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejitsu/node-http-proxy",
+    "publisher": "Charlie Robbins",
+    "email": "charlie.robbins@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/http-proxy",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/http-proxy/LICENSE"
+  },
+  "http-signature@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-http-signature",
+    "publisher": "Joyent, Inc",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/http-signature",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/http-signature/LICENSE"
+  },
+  "iconv-lite@0.4.23": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ashtuchkin/iconv-lite",
+    "publisher": "Alexander Shtuchkin",
+    "email": "ashtuchkin@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/iconv-lite",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/iconv-lite/LICENSE"
+  },
+  "image-to-base64@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/renanbastos93/image-to-base64",
+    "publisher": "Renan Bastos -",
+    "email": "renanbastos.tec@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/image-to-base64",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/image-to-base64/LICENSE"
+  },
+  "inherits@2.0.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/inherits",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/inherits/LICENSE"
+  },
+  "ioredis@4.16.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/luin/ioredis",
+    "publisher": "luin",
+    "email": "i@zihua.li",
+    "url": "http://zihua.li",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ioredis",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ioredis/LICENSE"
+  },
+  "ipaddr.js@1.8.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/whitequark/ipaddr.js",
+    "publisher": "whitequark",
+    "email": "whitequark@whitequark.org",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ipaddr.js",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ipaddr.js/README.md"
+  },
+  "is-callable@1.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/is-callable",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-callable",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-callable/LICENSE"
+  },
+  "is-date-object@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/is-date-object",
+    "publisher": "Jordan Harband",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-date-object",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-date-object/LICENSE"
+  },
+  "is-nan@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/is-nan",
+    "publisher": "Jordan Harband",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-nan",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-nan/LICENSE"
+  },
+  "is-regex@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/is-regex",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-regex",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-regex/LICENSE"
+  },
+  "is-stream@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-stream",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-stream",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-stream/license"
+  },
+  "is-symbol@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-symbol",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-symbol",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-symbol/LICENSE"
+  },
+  "is-typedarray@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hughsk/is-typedarray",
+    "publisher": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-typedarray",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/is-typedarray/LICENSE.md"
+  },
+  "isstream@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/isstream",
+    "publisher": "Rod Vagg",
+    "email": "rod@vagg.org",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/isstream",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/isstream/LICENSE.md"
+  },
+  "jsbn@0.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andyperlitch/jsbn",
+    "publisher": "Tom Wu",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/jsbn",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/jsbn/LICENSE"
+  },
+  "json-schema-traverse@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/json-schema-traverse",
+    "publisher": "Evgeny Poberezkin",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/json-schema-traverse",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/json-schema-traverse/LICENSE"
+  },
+  "json-schema@0.2.3": {
+    "licenses": [
+      "AFLv2.1",
+      "BSD"
+    ],
+    "repository": "https://github.com/kriszyp/json-schema",
+    "publisher": "Kris Zyp",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/json-schema",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/json-schema/README.md"
+  },
+  "json-stringify-safe@5.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/json-stringify-safe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/json-stringify-safe",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/json-stringify-safe/LICENSE"
+  },
+  "jsonify@0.0.0": {
+    "licenses": "Public Domain",
+    "repository": "https://github.com/substack/jsonify",
+    "publisher": "Douglas Crockford",
+    "url": "http://crockford.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/jsonify",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/jsonify/README.markdown"
+  },
+  "jsprim@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-jsprim",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/jsprim",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/jsprim/LICENSE"
+  },
+  "lodash.defaults@4.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/lodash.defaults",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/lodash.defaults/LICENSE"
+  },
+  "lodash.flatten@4.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/lodash.flatten",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/lodash.flatten/LICENSE"
+  },
+  "lodash@4.17.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/lodash",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/lodash/LICENSE"
+  },
+  "media-typer@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/media-typer",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/media-typer",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/media-typer/LICENSE"
+  },
+  "merge-descriptors@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/merge-descriptors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/merge-descriptors",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/merge-descriptors/LICENSE"
+  },
+  "methods@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/methods",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/methods",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/methods/LICENSE"
+  },
+  "mime-db@1.38.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mime-db",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mime-db/LICENSE"
+  },
+  "mime-types@2.1.22": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mime-types",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mime-types/LICENSE"
+  },
+  "mime@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/node-mime",
+    "publisher": "Robert Kieffer",
+    "email": "robert@broofa.com",
+    "url": "http://github.com/broofa",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mime",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mime/LICENSE"
+  },
+  "moment-timezone@0.5.28": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moment/moment-timezone",
+    "publisher": "Tim Wood",
+    "email": "washwithcare@gmail.com",
+    "url": "http://timwoodcreates.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/moment-timezone",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/moment-timezone/LICENSE"
+  },
+  "moment@2.24.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moment/moment",
+    "publisher": "Iskren Ivov Chernev",
+    "email": "iskren.chernev@gmail.com",
+    "url": "https://github.com/ichernev",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/moment",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/moment/LICENSE"
+  },
+  "ms@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/body-parser/node_modules/ms",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/body-parser/node_modules/ms/license.md"
+  },
+  "ms@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ms",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/ms/license.md"
+  },
+  "mustache@2.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/janl/mustache.js",
+    "publisher": "mustache.js Authors",
+    "email": "http://github.com/janl/mustache.js",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mustache",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/mustache/LICENSE"
+  },
+  "negotiator@0.6.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/negotiator",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/negotiator",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/negotiator/LICENSE"
+  },
+  "node-fetch@1.7.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bitinn/node-fetch",
+    "publisher": "David Frank",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/node-fetch",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/node-fetch/LICENSE.md"
+  },
+  "node-workers-example@1.0.0": {
+    "licenses": "MIT",
+    "path": "/Users/psaraswathi/worx/salesforce-mc",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/README.md"
+  },
+  "oauth-sign@0.9.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/oauth-sign",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/oauth-sign",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/oauth-sign/LICENSE"
+  },
+  "object-inspect@1.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/object-inspect",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object-inspect",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object-inspect/LICENSE"
+  },
+  "object-keys@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/object-keys",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object-keys",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object-keys/LICENSE"
+  },
+  "object.assign@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/object.assign",
+    "publisher": "Jordan Harband",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object.assign",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object.assign/LICENSE"
+  },
+  "object.getownpropertydescriptors@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/object.getownpropertydescriptors",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object.getownpropertydescriptors",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/object.getownpropertydescriptors/LICENSE"
+  },
+  "on-finished@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-finished",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/on-finished",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/on-finished/LICENSE"
+  },
+  "p-finally@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-finally",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/p-finally",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/p-finally/license"
+  },
+  "p-timeout@3.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-timeout",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/p-timeout",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/p-timeout/license"
+  },
+  "parseurl@1.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/parseurl",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/parseurl",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/parseurl/LICENSE"
+  },
+  "path-to-regexp@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/path-to-regexp",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/path-to-regexp",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/path-to-regexp/LICENSE"
+  },
+  "performance-now@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/braveg1rl/performance-now",
+    "publisher": "Braveg1rl",
+    "email": "braveg1rl@outlook.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/performance-now",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/performance-now/license.txt"
+  },
+  "promise.prototype.finally@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/Promise.prototype.finally",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/promise.prototype.finally",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/promise.prototype.finally/LICENSE"
+  },
+  "proxy-addr@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/proxy-addr",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/proxy-addr",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/proxy-addr/LICENSE"
+  },
+  "psl@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lupomontero/psl",
+    "publisher": "Lupo Montero",
+    "email": "lupomontero@gmail.com",
+    "url": "https://lupomontero.com/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/psl",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/psl/LICENSE"
+  },
+  "punycode@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bestiejs/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tough-cookie/node_modules/punycode",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tough-cookie/node_modules/punycode/LICENSE-MIT.txt"
+  },
+  "punycode@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bestiejs/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/punycode",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/punycode/LICENSE-MIT.txt"
+  },
+  "qs@6.5.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/qs",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/qs/LICENSE"
+  },
+  "range-parser@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/range-parser",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/range-parser",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/range-parser/LICENSE"
+  },
+  "raw-body@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/raw-body",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/raw-body",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/raw-body/LICENSE"
+  },
+  "redis-commands@1.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/NodeRedis/redis-commands",
+    "publisher": "luin",
+    "email": "i@zihua.li",
+    "url": "http://zihua.li",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/redis-commands",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/redis-commands/LICENSE"
+  },
+  "redis-errors@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/NodeRedis/redis-errors",
+    "publisher": "Ruben Bridgewater",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/redis-errors",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/redis-errors/LICENSE"
+  },
+  "redis-parser@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/NodeRedis/node-redis-parser",
+    "publisher": "Ruben Bridgewater",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/redis-parser",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/redis-parser/LICENSE"
+  },
+  "request@2.88.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/request/request",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/request",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/request/LICENSE"
+  },
+  "requires-port@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/unshiftio/requires-port",
+    "publisher": "Arnout Kazemier",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/requires-port",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/requires-port/LICENSE"
+  },
+  "safe-buffer@5.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/safe-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "http://feross.org",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/safe-buffer",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/safe-buffer/LICENSE"
+  },
+  "safer-buffer@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ChALkeR/safer-buffer",
+    "publisher": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/safer-buffer",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/safer-buffer/LICENSE"
+  },
+  "semver@6.3.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/semver",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/semver/LICENSE"
+  },
+  "send@0.16.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/send",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/send",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/send/LICENSE"
+  },
+  "serve-static@1.13.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/serve-static",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/serve-static",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/serve-static/LICENSE"
+  },
+  "setprototypeof@1.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/wesleytodd/setprototypeof",
+    "publisher": "Wes Todd",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/setprototypeof",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/setprototypeof/LICENSE"
+  },
+  "shell-quote@1.6.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-shell-quote",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/shell-quote",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/shell-quote/LICENSE"
+  },
+  "sshpk@1.16.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-sshpk",
+    "publisher": "Joyent, Inc",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/sshpk",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/sshpk/LICENSE"
+  },
+  "standard-as-callback@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/luin/asCallback",
+    "publisher": "luin",
+    "email": "i@zihua.li",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/standard-as-callback",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/standard-as-callback/LICENSE"
+  },
+  "statuses@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/statuses",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/statuses",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/statuses/LICENSE"
+  },
+  "string.prototype.trimend@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.trimEnd",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimend",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimend/LICENSE"
+  },
+  "string.prototype.trimleft@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.trimLeft",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimleft",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimleft/LICENSE"
+  },
+  "string.prototype.trimright@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.trimRight",
+    "publisher": "Jordan Harband",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimright",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimright/LICENSE"
+  },
+  "string.prototype.trimstart@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/String.prototype.trimStart",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimstart",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/string.prototype.trimstart/LICENSE"
+  },
+  "throng@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hunterloftis/throng",
+    "publisher": "Hunter Loftis",
+    "email": "hunter@hunterloftis.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/throng",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/throng/readme.md"
+  },
+  "tough-cookie@2.4.3": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/salesforce/tough-cookie",
+    "publisher": "Jeremy Stashewsky",
+    "email": "jstash@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tough-cookie",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tough-cookie/LICENSE"
+  },
+  "tunnel-agent@0.6.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/tunnel-agent",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tunnel-agent",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tunnel-agent/LICENSE"
+  },
+  "tweetnacl@0.14.5": {
+    "licenses": "Unlicense",
+    "repository": "https://github.com/dchest/tweetnacl-js",
+    "publisher": "TweetNaCl-js contributors",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tweetnacl",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/tweetnacl/LICENSE"
+  },
+  "type-is@1.6.16": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/type-is",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/type-is/LICENSE"
+  },
+  "unpipe@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/unpipe",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/unpipe",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/unpipe/LICENSE"
+  },
+  "uri-js@4.2.2": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/garycourt/uri-js",
+    "publisher": "Gary Court",
+    "email": "gary.court@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/uri-js",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/uri-js/README.md"
+  },
+  "util.promisify@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/util.promisify",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/util.promisify",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/util.promisify/LICENSE"
+  },
+  "utils-merge@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/utils-merge",
+    "publisher": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/utils-merge",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/utils-merge/LICENSE"
+  },
+  "uuid@3.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kelektiv/node-uuid",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/uuid",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/uuid/LICENSE.md"
+  },
+  "uuid@3.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/uuidjs/uuid",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bull/node_modules/uuid",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/bull/node_modules/uuid/LICENSE.md"
+  },
+  "vary@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/vary",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/vary",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/vary/LICENSE"
+  },
+  "verror@1.10.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davepacheco/node-verror",
+    "path": "/Users/psaraswathi/worx/salesforce-mc/node_modules/verror",
+    "licenseFile": "/Users/psaraswathi/worx/salesforce-mc/node_modules/verror/LICENSE"
+  }
+}
+
