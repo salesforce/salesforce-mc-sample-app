@@ -17,22 +17,22 @@ create ".env" file with following values updated.
 
 CMS_HOST=https://login.salesforce.com/ \
 CMS_TOKEN_ENDPOINT=/services/oauth2/token \
-CREATE_CONTENTTYPE_ENDPOUNT = /services/data/v48.0/tooling/sobjects/ManagedContentType/ \
+CREATE_CONTENTTYPE_ENDPOUNT = /services/data/v49.0/tooling/sobjects/ManagedContentType/ \
 CMS_CLIENTID=<clientid> \
 CMS_CLIENTSECRETID=<secret> \
 CMS_USERNAME=<username> \
 CMS_PASS=<passwd+token> \
 CMS_API_DOMAINPATH=<Custom domain salesforce url> \
-CMS_API_BASEPATH=/services/data/v48.0/connect/communities/ \
+CMS_API_BASEPATH=/services/data/v49.0/connect/communities/ \
 CMS_ASSET_BASEPATH=<community url with out /s/> \
 COMMUNITY_ID=<communityid> \
 CONTENT_ID=<contentid>\ 
 
 #Channel API
-CMS_DELIVERY_API_BASEPATH=/services/data/v48.0/connect/cms/delivery/channels/\
+CMS_DELIVERY_API_BASEPATH=/services/data/v49.0/connect/cms/delivery/channels/\
 CHANNEL_ID=<Chanel ID copied from workbench via channels api>\
 CMS_API_CHANNEL_END_POINT=/contents/query\
-CMS_API_ASSET_PATH=/services/data/v48.0/connect\
+CMS_API_ASSET_PATH=/services/data/v49.0/connect\
 CONTENT_TYPE=<devname of custom content typpe>
 
 
