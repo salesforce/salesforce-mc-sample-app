@@ -10,7 +10,7 @@
     "express": "^4.16.4",
     "foreman": "^3.0.1",
     "html-entities": "^1.2.1",
-    "image-to-base64": "^2.1.0",
+    "image-to-base64": "^2.1.1",
     "request": "^2.88.0",
     "throng": "^4.0.0"
   },
