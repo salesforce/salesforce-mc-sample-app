@@ -12,7 +12,8 @@
     "html-entities": "^1.2.1",
     "image-to-base64": "^2.1.1",
     "request": "^2.88.0",
-    "throng": "^4.0.0"
+    "throng": "^4.0.0",
+    "secure-env": "^1.2.0"
   },
   "scripts": {
     "start": "nf start"

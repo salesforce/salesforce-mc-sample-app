@@ -52,6 +52,11 @@ MC_ASSET_FOLDER_ID=<Folderid created in content builder to store cms assets>
 Use the secure **`.env`** npm module  and encrypt the  **`.env`** file and delete it
 Reference: https://www.npmjs.com/package/secure-env
 
+```
+$ npm install -g secure-env
+$ secure-env .env -s sfcmsmc
+```
+
 ## Installing Local Dependencies
 
 - [Redis](https://redis.io/)
